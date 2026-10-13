@@ -1,0 +1,6 @@
+cmasher==1.9.4
+matplotlib==3.7.2
+mplsoccer==1.8.1
+mycolorpy==1.5.3
+numpy==1.25.2
+pandas==2.0.3
