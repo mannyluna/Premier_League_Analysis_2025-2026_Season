@@ -75,7 +75,7 @@ desktop.ini
 # Local Config Files
 # =====================================
 
-config_local.py
+config.py
 secret_config.py
 
 # =====================================
@@ -95,23 +95,8 @@ secret_config.py
 # Generated Images
 # =====================================
 
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.webp
-
 # Keep project assets
 !logos/*.png
-
-# =====================================
-# Animations / Videos
-# =====================================
-
-*.mp4
-*.mov
-*.avi
-*.gif
 
 # =====================================
 # Generated Reports
@@ -119,7 +104,6 @@ secret_config.py
 
 reports/
 exports/
-output/
 
 # =====================================
 # Matplotlib
