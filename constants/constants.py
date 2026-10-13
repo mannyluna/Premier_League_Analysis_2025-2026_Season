@@ -147,10 +147,11 @@ MIDFIELDER_METRICS = {
     "assists": "Assists",
     "xg": "xG",
     "xa": "xA",
-    "successful_dribbles": "Successful Dribbles",
-    "touches_opposition_box": "Touches In Box",
+    'successful_dribbles': "Successful Dribbles",
+    'shots_on_target': "Shots On Target",
+    'defensive_contributions': "Defensive Contributions",
     "accurate_passes_percent": "Accurate Passes %",
-    "accurate_crosses_percent": "Accurate Crosses %",
+    'accurate_crosses_percent': "Accurate Crosses %",
     "final_third_passes": "Final Third Passes",
 }
 
