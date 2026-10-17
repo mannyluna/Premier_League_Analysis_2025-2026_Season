@@ -15,13 +15,11 @@ A Python-based soccer analytics platform designed to transform raw football data
 - [Features](#-features)
 - [Visualizations](#-visualizations)
 - [Project Structure](#-project-structure)
-- [Installation](#-installation)
 - [Usage](#-usage)
 - [Metric Framework](#-metric-framework)
 - [Technology Stack](#-technology-stack)
 - [Performance Enhancements](#-performance-enhancements)
 - [Roadmap](#-roadmap)
-- [License](#-license)
 - [Author](#-author)
 
 ---
