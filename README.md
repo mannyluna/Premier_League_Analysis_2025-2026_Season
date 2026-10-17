@@ -264,7 +264,7 @@ Current optimizations include:
 - [ ] Player Similarity Engine
 - [ ] Match Simulation Models
 - [ ] Automated Report Generation
-- [ ] Machine Learning Projections<img width="491" height="528" alt="example" src="https://github.com/user-attachments/assets/729added-6965-49a0-a2db-7b31ddfe49a9" />
+- [ ] Machine Learning Projections
 
 ---
 
